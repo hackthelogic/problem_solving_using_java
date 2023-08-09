@@ -10,6 +10,6 @@ public class PrintPattern {
         }
     }
     public static void main(String[] args){
-        printPattern(2);
+        printPattern(2);// TO change the arguments value to check the multiple test cases
     }
 }
